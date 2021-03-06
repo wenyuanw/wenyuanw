@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 It's nice to meet you!
+🌱 I’m currently learning Vue!
+📫Welcom to my Blog.
+https://wenyuanw.github.io/MyBlog/#/
 <!--
 **wenyuanw/wenyuanw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
