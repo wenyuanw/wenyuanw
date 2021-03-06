@@ -2,7 +2,7 @@
 
 It's nice to meet you!
 
-🌱 I’m currently learning Vue!
+🌱 I’m currently learning JavaScript, Vue and so on!
 
 📫Welcom to my [Blog](https://wenyuanw.github.io/MyBlog/#/).
 
