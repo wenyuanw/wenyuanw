@@ -6,6 +6,8 @@ It's nice to meet you!
 
 📫Welcom to my [Blog](https://wenyuanw.github.io/MyBlog/#/).
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wenyuanw&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **wenyuanw/wenyuanw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
