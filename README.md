@@ -2,7 +2,7 @@
 
 It's nice to meet you!
 
-🌱 I’m currently learning JavaScript, Vue and so on!
+🌱 I’m a frontend developer from China!
 
 📫Welcom to my [Blog](https://wenyuanw.github.io/MyBlog/#/).
 
