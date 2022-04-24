@@ -4,7 +4,7 @@ It's nice to meet you!
 
 🌱 I’m a frontend developer from China!
 
-📫Welcom to my [Blog](https://wenyuanw.github.io/MyBlog/#/).
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wenyuanw&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📫 Welcom to my [Blog](https://wenyuanw.github.io/MyBlog/#/).
 -->
