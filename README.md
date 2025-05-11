@@ -5,22 +5,25 @@ It's nice to meet you!
 🌱 I’m a frontend developer from China!
 
 
+### 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wenyuanw&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--
-**wenyuanw/wenyuanw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 📫 Welcom to my [Blog](https://wenyuanw.github.io/MyBlog/#/).
--->
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=wenyuanw&theme=vue-dark&show_icons=true&hide_border=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=wenyuanw&theme=vue&show_icons=true&hide_border=true">
+          <img src="https://github-readme-stats.vercel.app/api?username=wenyuanw&theme=vue&show_icons=true&hide_border=true">
+        </picture>
+      </td>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wenyuanw&theme=vue-dark&layout=compact&hide_border=true">
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=wenyuanw&theme=vue&layout=compact&hide_border=true">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenyuanw&theme=vue&layout=compact&hide_border=true">
+        </picture>
+      </td>
+    </tr>
+  </tbody>
+</table>
