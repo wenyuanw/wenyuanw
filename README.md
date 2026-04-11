@@ -1,9 +1,20 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm wenyuanw 👋</h1>
 
-It's nice to meet you!
+<p align="center">
+  <b>AI coder · TypeScript-first builder</b><br />
+  Building practical AI tools to make daily workflows faster.
+</p>
 
-🌱 I’m a frontend developer from China!
+<p align="center">
+  <a href="https://wenyuanw.me">Website</a> ·
+  <a href="https://x.com/wenyuanw_">X</a> ·
+  <a href="mailto:hi@wenyuanw.me">Email</a>
+</p>
 
+### 🧩 Featured Projects
+
+- **[Quick Prompt](https://github.com/wenyuanw/quick-prompt)**
+  Prompt management browser extention + quick insert in any web input (`/p`), with variables, hotkeys, backup, and Notion sync.
 
 ### 📊 GitHub Stats
 
