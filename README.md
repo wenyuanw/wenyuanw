@@ -16,6 +16,9 @@
 - **[Quick Prompt](https://github.com/wenyuanw/quick-prompt)**
   Prompt management browser extention + quick insert in any web input (`/p`), with variables, hotkeys, backup, and Notion sync.
 
+- **[A-Share Heatmap](https://github.com/wenyuanw/a-share-heatmap)**
+  Open-source interactive heatmap of the China A-share market, rendering thousands of stocks as a Canvas treemap. ([Live demo](https://map.wenyuanw.me))
+
 ### 📊 GitHub Stats
 
 <table>
