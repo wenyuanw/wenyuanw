@@ -17,7 +17,7 @@
   Prompt management browser extention + quick insert in any web input (`/p`), with variables, hotkeys, backup, and Notion sync.
 
 - **[A-Share Heatmap](https://github.com/wenyuanw/a-share-heatmap)**
-  Open-source interactive heatmap of the China A-share market, rendering thousands of stocks as a Canvas treemap. ([Live demo](https://map.wenyuanw.me))
+  Open-source interactive heatmap of the China A-share market, rendering thousands of stocks as a Canvas treemap. ([Live demo](https://dapan.app))
 
 ### 📊 GitHub Stats
 
